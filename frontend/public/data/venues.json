@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Venue A",
+        "location": "Loc1",
+        "capacity": 100,
+        "description": "Venue A is a great place to hold events.",
+        "photo": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 2,
+        "name": "Venue B",
+        "location": "Loc2",
+        "capacity": 200,
+        "description": "Venue B is a great place to hold events.",
+        "photo": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 3,
+        "name": "Venue C",
+        "location": "Loc3",
+        "capacity": 300,
+        "description": "Venue C is a great place to hold events.",
+        "photo": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 4,
+        "name": "Venue D",
+        "location": "Loc4",
+        "capacity": 400,
+        "description": "Venue D is a great place to hold events.",
+        "photo": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 5,
+        "name": "Venue E",
+        "location": "Loc5",
+        "capacity": 500,
+        "description": "Venue E is a great place to hold events.",
+        "photo": "https://via.placeholder.com/300"
+    }
+]
