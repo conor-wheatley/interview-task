@@ -1,4 +1,4 @@
-# Parsons Venues
+# React Task
 
 This project is a simple venue management system built with a **React frontend**.
 
